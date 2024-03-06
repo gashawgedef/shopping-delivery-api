@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+uvicorn
+bcrypt
+python-multipart
+psycopg2-binary
+sqlalchemy-utils
