@@ -6,3 +6,4 @@ python-multipart
 psycopg2-binary
 sqlalchemy-utils
 werkzeug
+fastapi_jwt_auth
